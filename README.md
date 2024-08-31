@@ -14,10 +14,10 @@ Link Cloud is a simple and elegant solution for consolidating all your major pro
 2. CSS: Styling and layout to create a visually appealing interface.
 
 **📁Folder Structure :**
-**index.html :** Contains the main structure and content of the webpage.
-**style.css :** Provides the styling and layout design for the webpage.
-**README.md :** What you are reading now, Offers documentation and instructions about the project.
-**assests :** Holds additional resources such as images, fonts, or other files used in the project.
+1. **index.html :** Contains the main structure and content of the webpage.
+2. **style.css :** Provides the styling and layout design for the webpage.
+3. **README.md :** What you are reading now, Offers documentation and instructions about the project.
+4. **assests :** Holds additional resources such as images, fonts, or other files used in the project.
 
 **✍️**
 Feel free to customize and extend this project to suit your personal or professional needs!
