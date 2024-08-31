@@ -5,13 +5,13 @@ Link Cloud is a simple and elegant solution for consolidating all your major pro
 ![Screenshot 2024-08-31 131321](https://github.com/user-attachments/assets/6265f883-0ffa-468c-923e-2f8cd1f99b8f)
 
 **⚙️Features :**
-1. Centralized Link Management: Gather all your important profile links in one place.
-2. Simple Design: Created with basic HTML and CSS for easy customization and quick deployment.
-3. Responsive Layout: Ensures your links are accessible and well-presented.
+1. **Centralized Link Management:** Gather all your important profile links in one place.
+2. **Simple Design:** Created with basic HTML and CSS for easy customization and quick deployment.
+3. **Responsive Layout:** Ensures your links are accessible and well-presented.
 
 **👩🏻‍💻Technologies Used :**
-1. HTML: Structure and content of the webpage.
-2. CSS: Styling and layout to create a visually appealing interface.
+1. **HTML:** Structure and content of the webpage.
+2. **CSS:** Styling and layout to create a visually appealing interface.
 
 **📁Folder Structure :**
 1. **index.html :** Contains the main structure and content of the webpage.
